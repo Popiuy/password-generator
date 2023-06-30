@@ -47,7 +47,7 @@ function generatePassword() {
   // Check if no character types were selected
   if (availableChars.length === 0) {
     alert("No character types selected. Please choose at least one character type.");
-    return ""; // Return an empty string to indicate failure
+    return ""; // Return an empty string to show failure
   }
 
   // Generate the password
@@ -61,7 +61,7 @@ function generatePassword() {
   return password;
 }
 
-// Write password to the #password input
+// Write password to the password input
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
