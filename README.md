@@ -16,5 +16,5 @@ The end product is posted into the box so that the user can use this generated p
 
 ### Links
 github:[https://github.com/Popiuy/password-generator](https://github.com/Popiuy/password-generator)
-Deployed Webpage:[]()
-Screenshot
+Deployed Webpage:[https://popiuy.github.io/password-generator/](https://popiuy.github.io/password-generator/)
+Screenshot ![Alt text](/password-generator/assets/images/passwordgenerator-screenshot.png?raw=true "Password-Generator-screenshot")
